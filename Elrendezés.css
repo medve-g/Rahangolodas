@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    margin: 0;
+}
+
+img {
+    width: 400px;
+}
+
+h2{
+    padding-left: 18%;
+}
+
+p{
+   
+}
+
+body{
+    background-image:url(hatter.jpg)
+}
+
+#ermek{
+    width: 300px;
+}
+
+#Futam{
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+#kozep{
+   margin-bottom: 200px;
+   margin-left: 200px;
+   margin-right: 200px;
+}
+
+#kozepkep{
+    margin-top: 100px;
+    width: 500px;
+}
+
+#jobbkep{
+    width: 400px;
+}
+
+#palyafutas{
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+    color: black;
+}
+
